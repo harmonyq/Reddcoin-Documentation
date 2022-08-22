@@ -1,2 +1,2 @@
-# Peercoin official documentation repository
+# Reddcoin official documentation repository
 ----
