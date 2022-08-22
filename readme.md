@@ -1,2 +1,1 @@
 # Reddcoin official documentation repository
-----
