@@ -36,7 +36,7 @@ The fee market is also a subject where Reddcoin and Bitcoin differ. By moving to
 <tr>
 <td>Distribution method:</td>
 <td>PoW block reward</td>
-<td>(PoW block reward from Jan 2014 – Aug 2014: Terminated.)</br>
+<td>(PoW block reward from Jan 2014 – Aug 2014: Terminated)</br>
 PoSV v2 block reward
 </td>
 <td>Initial Coin Offering / PoW block reward</td>
