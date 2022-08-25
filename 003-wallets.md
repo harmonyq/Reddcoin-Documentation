@@ -1,13 +1,15 @@
 # Wallets
  
-## Official Client (Core)
-Official client implementation
+## Official client implementation
+
 Once you install official Reddcoin client from reddcoin.com or redd.love, you’ll have access to three executables: reddcoind, reddcoin-qt, and reddcoin-cli.
-Reddcoin Wallet
-reddcoin-qt provides a combination full Reddcoin network client and wallet. Reddcoin-qt is highly portable application written in QT5 framework. From the Help menu, you can access a console where you can enter the RPC commands so power-user features are still available.
+
+### Reddcoin Wallet
+
+'reddcoin-qt' provides a combination full Reddcoin network client and wallet. Reddcoin-qt is highly portable application written in QT5 framework. From the Help menu, you can access a console where you can enter the RPC commands so power-user features are still available.
  
-reddcoind
-reddcoind provides a full peer which you can interact with through JSON-RPC interface on port 9902 (9904 for testnet).
+### reddcoind
+'reddcoind' provides a full peer which you can interact with through JSON-RPC interface on port 9902 (9904 for testnet).
  
 reddcoin-cli
 reddcoin-cli allows you to send JSON-RPC commands to running instance of reddcoind from the command line. For example:
