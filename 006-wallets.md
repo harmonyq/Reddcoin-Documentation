@@ -9,31 +9,36 @@ Once you install official Reddcoin client from reddcoin.com or redd.love, you’
 `reddcoin-qt` provides a combination full Reddcoin network client and wallet. Reddcoin-qt is highly portable application written in QT5 framework. From the Help menu, you can access a console where you can enter the RPC commands so power-user features are still available.
  
 ### reddcoind
+
 `reddcoind` provides a full peer which you can interact with through JSON-RPC interface on port 9902 (9904 for testnet).
  
-reddcoin-cli
-reddcoin-cli allows you to send JSON-RPC commands to running instance of reddcoind from the command line. For example:
- 
-reddcoin-cli help
-reddcoin-cli getinfo
+### reddcoin-cli
+
+`reddcoin-cli` allows you to send JSON-RPC commands to running instance of `reddcoind` from the command line. For example:
+> reddcoin-cli help
+
+> reddcoin-cli getinfo
  
 All three programs get settings from reddcoin.conf in the Reddcoin application directory:
  
-Windows: %APPDATA%\Reddcoin\
-OSX: $HOME/Library/Application Support/ReddCoin/
-Linux: $HOME/.reddcoin/
+> Windows: %APPDATA%\Reddcoin\
+
+> OSX: $HOME/Library/Application Support/ReddCoin/
+
+>Linux: $HOME/.reddcoin/
  
-To use reddcoind  and reddcoin-cli, you will need to add a RPC password to your reddcoin.conf file. Both programs will read from the same file if both run on the same system as the same user, so any long random password will work:
+To use `reddcoind` and `reddcoin-cli`, you will need to add a RPC password to your reddcoin.conf file. Both programs will read from the same file if both run on the same system as the same user, so any long random password will work:
  
-         	rpcpassword=change_this_to_a_long_random_password
+>	rpcpassword=change_this_to_a_long_random_password
+
 You should also make the reddcoin.conf file only readable to its owner. On Linux, Mac OSX, and other Unix-like systems, this can be accomplished by running the following command in the Reddcoin application directory:
  
-chmod 0600 reddcoin.conf
+> chmod 0600 reddcoin.conf
  
- 
- 
-Reddcoin Core Wallet     	
- 
+## Reddcoin Core Wallet     	
+
+### Overview
+
 Windows Installation
  
 To install on Windows, you can find the download files here: https://www.reddcoin.com/reddwallet.html#rddwallet or https://redd.love/technology/ . Once download is complete, extract the contents of the folder. Depending on if your system is x32 or x64 bits, choosing the relevant folder. Run the reddcoin-win_setup.exe and you will be guided through the installation process. Once finishes, the client can be launched by running "reddcoin-qt.exe" from the appropriate folder.
