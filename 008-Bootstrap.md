@@ -17,7 +17,7 @@ Syncing a blockchain is always a time consuming and painful process. Fortunately
 #### Step 1: Back up wallet
 Always make a back up of your wallet first if you have any Reddcoins in your wallet. Do not skip this step.
 
-You can read here how to make a back up.
+You can read here how to make a back up: https://yavuz.uber.space/books/reddcoin-core-on-windows/page/backing-up-wallet
 
 #### Step 2: Check if most recent version of Reddcoin Core is installed
 It is important to use/run the most recent version of Reddcoin Core, as the most recent version will have bugfixes and improvements.
