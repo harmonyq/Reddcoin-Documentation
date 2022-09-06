@@ -9,7 +9,7 @@ Syncing a blockchain is always a time consuming and painful process. Fortunately
 
 ## Instructions
 
-### Video instructions:
+#### Video instructions:
 *   For macOS: [https://www.youtube.com/watch?v=KeBJWRNWTZY](https://www.youtube.com/watch?v=KeBJWRNWTZY)
 
 *   For Windows: [https://www.youtube.com/watch?v=lYcu5BA3RDo](https://www.youtube.com/watch?v=lYcu5BA3RDo)
