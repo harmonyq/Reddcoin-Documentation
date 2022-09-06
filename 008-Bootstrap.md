@@ -14,11 +14,12 @@ Syncing a blockchain is always a time consuming and painful process. Fortunately
 
 > *   For Windows: [https://www.youtube.com/watch?v=lYcu5BA3RDo](https://www.youtube.com/watch?v=lYcu5BA3RDo)
 
-Step 1: Back up wallet
+#### Step 1: Back up wallet
 Always make a back up of your wallet first if you have any Reddcoins in your wallet. Do not skip this step.
 
 You can read here how to make a back up.
-Step 2: Check if most recent version of Reddcoin Core is installed
+
+#### Step 2: Check if most recent version of Reddcoin Core is installed
 It is important to use/run the most recent version of Reddcoin Core, as the most recent version will have bugfixes and improvements.
 
 Currently, the most recent version is: Reddcoin Core v3.10.4.
@@ -40,7 +41,8 @@ It should be v3.10.4.
 If your version is not v3.10.4 (and thus older), you should update Reddcoin Core first.
 More info about updating can be found here: Updating Reddcoin Core to a newer version.
 After you have updated, you can continue with step 3 below.
-Step 3: Find your Reddcoin data directory
+
+#### Step 3: Find your Reddcoin data directory
 Your Reddcoin data directory contains important files used by Reddcoin Core, like the Reddcoin blockchain files and the wallet file. You need to know where your Reddcoin data directory is located, as you need to copy some files into this directory in the next steps.
 ·         Open Reddcoin Core.
 
@@ -76,7 +78,7 @@ o	peers.dat
 ·         Leave this window open.
 ↳ Screenshot
 
-Step 4: Download and extract the bootstrap file
+#### Step 4: Download and extract the bootstrap file
 You need to download the bootstrap file, and place the contents in your Reddcoin data.
 ·         Download the bootstrap file (.zip file – 4.5 GB):
 https://download.reddcoin.com/bin/bootstrap/blockchain-latest.zip
@@ -93,7 +95,7 @@ You can 'drag and drop', 'right click copy, right click paste' or 'CTRL + C, CTR
 ↳ Screenshot
 ↳ Screenshot
 
-Step 5: Finish the sync
+#### Step 5: Finish the sync
 Start Reddcoin Core. If you did everything correctly, you should sync only a few days of blockchain data, instead of more than 6 years. Wait until the blockchain is fully synced before doing any transactions.
 
 To speed up the weeks syncing, you can do the following:
