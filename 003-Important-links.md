@@ -38,23 +38,20 @@
 
 Mainnet
 
-- [BitInfoCharts](https://bitinfocharts.com/peercoin/explorer/)
-- [Chainz.CryptoID](https://chainz.cryptoid.info/ppc/)
-- [Mintr](https://mintr.peercoinexplorer.net/)
-- [CoinExplorer](https://www.coinexplorer.net/PPC)
-- [PeerExplorer](https://explorer.peercoin.net/)
+- [BitInfoCharts](https://bitinfocharts.com/reddcoin/explorer/)
+- [ReddCoin Explorer](https://live.reddcoin.com/)
 
 Testnet
 
-- [ReddExplorer](https://testnet-explorer.reddcoin.com/)
-- [Chainz.CryptoID](https://chainz.cryptoid.info/rdd-test/)
+- *** [ReddExplorer](https://testnet-explorer.reddcoin.com/)
+- *** [Chainz.CryptoID](https://chainz.cryptoid.info/rdd-test/)
 
 ### Other
 
-- [Charts](https://www.reddcoincoinexplorer.net/charts/)
-- [Inflation](https://www.reddcoincoinexplorer.net/inflation/)
-- [Mempool](https://www.reddcoinexplorer.net/mempool/)
-- [Energy Statistics](https://...)
-- [Testnet Faucet](https://...)
+- *** [Charts](https://www.reddcoincoinexplorer.net/charts/)
+- *** [Inflation](https://www.reddcoincoinexplorer.net/inflation/)
+- *** [Mempool](https://www.reddcoinexplorer.net/mempool/)
+- *** [Energy Statistics](https://...)
+- *** [Testnet Faucet](https://...)
 
 ---
