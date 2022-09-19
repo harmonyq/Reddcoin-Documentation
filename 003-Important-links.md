@@ -14,17 +14,30 @@
 - *** [Bitcointalk Thread](https://bitcointalk.org/..............)
 
 ## Chats
-
+#### Discord
 - [Discord](https://discord.gg/vKyEVnw)
+
+#### Telegram
 - [Telegram - Official](https://t.me/ReddcoinOfficial)
 - [Telegram - Project Redd](https://t.me/ProjectReddOfficial)
 
 ## Social Media
 
 - [Facebook](https://www.facebook.com/reddcoin/)
+- [Facebook](https://www.facebook.com/ProjectReddOfficialFB)
+ 
 - [Twitter](https://twitter.com/reddcoin)
 - [Twitter - Project Redd](https://twitter.com/ProjectReddTW)
-- [LinkedIn](https://www.linkedin.com/in/techadeptrdd)
+- 
+- [Instagram](https://www.instagram.com/projectreddofficial)
+- [Instagram](https://www.instagram.com/reddcoin/)
+
+- [KumoSpace](https://www.kumospace.com/projectredd)
+- [KumoSpace](https://www.kumospace.com/ReddCoin)
+
+- [LinkedIn](https://www.linkedin.com/groups/12381071/)
+- [LinkedIn](https://www.linkedin.com/company/reddcoin)
+
 
 ## Publications and Collections
 
