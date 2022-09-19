@@ -55,6 +55,9 @@
 - English News Channel: https://t.me/TeamReddcoin
 - Russian News Channel: https://t.me/dwreddcoin_news
 
+**Support**
+ReddCoin - Serious Dev Q’s & Support: https://t.me/ReddcoinDev
+
 ## Social Media
 
 ### Facebook
