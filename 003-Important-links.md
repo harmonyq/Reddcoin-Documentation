@@ -124,6 +124,7 @@ ReddCoin - Serious Dev Q’s & Support: https://t.me/ReddcoinDev
 #### Faucet:
 - Faucetcrypto: https://faucetcrypto.com/
 - Althub: https://althub.club/
+- Faucethub: https://faucethub.seotip.ovh/en/rdd
 
 #### *** Charts & Inflation 
 - *** Charts https://www.reddcoincoinexplorer.net/charts
