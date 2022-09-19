@@ -2,16 +2,16 @@
 
 ## Official Sites
 
-- [Reddcoin.com](https://reddcoin.com/)
-- [Redd.love](https://redd.love/)
-- [GitHub](https://github.com/reddcoin-project/)
-- *** [Foundation](https://reddcoin......../foundation.html)
+- Reddcoin.com: https://reddcoin.com/
+- Redd.love: https://redd.love/
+- GitHub: https://github.com/reddcoin-project/
+- *** Foundation https://reddcoin......../foundation.html
 
 ## Forums
 
-- [Reddcointalk](https://reddcointalk.org/)
-- [Reddit](https://www.reddit.com/r/reddCoin/)
-- *** [Bitcointalk Thread](https://bitcointalk.org/..............)
+- Reddcointalk: https://reddcointalk.org/
+- Reddit: https://www.reddit.com/r/reddCoin/
+- *** Bitcointalk Thread: https://bitcointalk.org/..............
 
 ## Chats
 
@@ -19,9 +19,11 @@
 - Project Redd Powered by ReddCoin: https://discord.gg/vKyEVnw
 
 ### Telegram
+**Main**
 - ReddCoin & Project Redd Community: https://t.me/ReddcoinOfficial
 - Redd.Love Social Movement (Powered by ReddCoin): https://t.me/ProjectReddOfficial
 
+**By countries**
 - Africa: https://t.me/ReddCoinAfricaOfficial
 - Belarus: https://t.me/ReddBY
 - Belgium (Dutch):	https://t.me/ReddCoinDutchOfficial
