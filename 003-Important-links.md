@@ -15,11 +15,35 @@
 
 ## Chats
 #### Discord
-- Project Redd Powered by ReddCoin: (https://discord.gg/vKyEVnw)
+- Project Redd Powered by ReddCoin: https://discord.gg/vKyEVnw
 
 #### Telegram
-- [Telegram - Official](https://t.me/ReddcoinOfficial)
-- [Telegram - Project Redd](https://t.me/ProjectReddOfficial)
+- ReddCoin & Project Redd Community: https://t.me/ReddcoinOfficial
+- Redd.Love Social Movement (Powered by ReddCoin): https://t.me/ProjectReddOfficial
+
+- Africa: https://t.me/ReddCoinAfricaOfficial
+- Belarus: https://t.me/ReddBY
+- Belgium (Dutch):	https://t.me/ReddCoinDutchOfficial
+- Bulgaria: https://t.me/ReddcoinBulgaria
+- China: https://t.me/ReddcoinChina
+- Germany: https://t.me/ReddcoinGerman
+- India: https://t.me/Reddcoin_India
+- Indonesia: https://t.me/IndonesianReddcoinOfficial
+- Israel: https://t.me/ReddcoinHebrew
+- Italy: https://t.me/reddcoinitofficial
+- Kazakhstan: https://t.me/ReddKZ
+- Netherlands: https://t.me/RDDCryptoNederlandBelgie
+- Russia (CIS): https://t.me/dwreddcoin
+- Russia Cross-Chain: https://t.me/ReddRU
+- South Korea: https://t.me/ReddcoinOfficialKorea
+- Spain: https://t.me/ReddcoinSpanish
+- Turkey: https://t.me/ReddcoinTurkiyeResmi
+- Ukraine: https://t.me/ReddUA
+- Vietnam: https://t.me/ReddcoinVietnam
+
+**Channels**
+English News Channel: https://t.me/TeamReddcoin
+Russian News Channel: https://t.me/dwreddcoin_news
 
 ## Social Media
 
