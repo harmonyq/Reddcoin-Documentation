@@ -74,6 +74,8 @@
 
 ### Medium
 - Project Redd: https://medium.com/projectredd
+
+### Reddcoin Blog
 - *** [Reddcoin University](https://university.reddcoin..........)
 - *** [Common Myths](https://...........)
 
