@@ -14,6 +14,7 @@
 - *** [Bitcointalk Thread](https://bitcointalk.org/..............)
 
 ## Chats
+
 ### Discord
 - Project Redd Powered by ReddCoin: https://discord.gg/vKyEVnw
 
@@ -47,27 +48,32 @@
 - Russian News Channel: https://t.me/dwreddcoin_news
 
 ## Social Media
-#### Facebook
+
+### Facebook
 - Project Redd: https://www.facebook.com/ProjectReddOfficialFB
 - Reddcoin: https://www.facebook.com/reddcoin
+
+### Instagram
+- Project Redd: https://www.instagram.com/projectreddofficial
+- Reddcoin: https://www.instagram.com/reddcoin/
+
+### KumoSpace
+- Project Redd: https://www.kumospace.com/projectredd
+- Reddcoin: https://www.kumospace.com/ReddCoin
+
+### LinkedIn
+- Project Redd: https://www.linkedin.com/groups/12381071/)
+- Reddcoin: https://www.linkedin.com/company/reddcoin
  
- 
-- [Twitter](https://twitter.com/reddcoin)
-- [Twitter - Project Redd](https://twitter.com/ProjectReddTW)
-- 
-- [Instagram](https://www.instagram.com/projectreddofficial)
-- [Instagram](https://www.instagram.com/reddcoin/)
-
-- [KumoSpace](https://www.kumospace.com/projectredd)
-- [KumoSpace](https://www.kumospace.com/ReddCoin)
-
-- [LinkedIn](https://www.linkedin.com/groups/12381071/)
-- [LinkedIn](https://www.linkedin.com/company/reddcoin)
-
+ ### Twitter
+- Project Redd: https://twitter.com/ProjectReddTW
+- Reddcoin: https://twitter.com/reddcoin
+- Reddcoin tip bot: https://twitter.com/tipReddCoin
 
 ## Publications and Collections
 
-- [Medium](https://medium.com/projectredd)
+### Medium
+- Project Redd: https://medium.com/projectredd
 - *** [Reddcoin University](https://university.reddcoin..........)
 - *** [Common Myths](https://...........)
 
@@ -75,11 +81,11 @@
 
 ### Block Explorers
 
-Mainnet
-
-- [BitInfoCharts](https://bitinfocharts.com/reddcoin/explorer/)
-- [ReddCoin Explorer](https://live.reddcoin.com/)
-- [TokenView](https://rdd.tokenview.io/)
+**Mainnet**
+<br/>
+- BitInfoCharts: https://bitinfocharts.com/reddcoin/explorer/
+- ReddCoin Explorer https://live.reddcoin.com/
+- TokenView: https://rdd.tokenview.io/
 
 Testnet
 
