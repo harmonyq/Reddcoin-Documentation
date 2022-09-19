@@ -41,17 +41,16 @@
 - Ukraine: https://t.me/ReddUA
 - Vietnam: https://t.me/ReddcoinVietnam
 
-
 **Channels**
 <br/>
-English News Channel: https://t.me/TeamReddcoin
-<br/>
-Russian News Channel: https://t.me/dwreddcoin_news
+- English News Channel: https://t.me/TeamReddcoin
+- Russian News Channel: https://t.me/dwreddcoin_news
 
 ## Social Media
-
-- [Facebook](https://www.facebook.com/reddcoin/)
-- [Facebook](https://www.facebook.com/ProjectReddOfficialFB)
+#### Facebook
+- Project Redd: https://www.facebook.com/ProjectReddOfficialFB
+- Reddcoin: https://www.facebook.com/reddcoin
+ 
  
 - [Twitter](https://twitter.com/reddcoin)
 - [Twitter - Project Redd](https://twitter.com/ProjectReddTW)
