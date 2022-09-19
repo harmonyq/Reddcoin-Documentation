@@ -9,9 +9,15 @@
 
 ## Forums
 
+### Reddcointalk
 - Reddcointalk: https://reddcointalk.org/
+
+### Reddit
 - Reddit: https://www.reddit.com/r/reddCoin/
-- *** Bitcointalk Thread: https://bitcointalk.org/..............
+- Reddit tip bot: https://www.reddit.com/user/tipReddCoin
+
+### Bitcointalk Thread
+- Reddcoin: https://bitcointalk.org/..............
 
 ## Chats
 
@@ -67,6 +73,10 @@
 - Project Redd: https://www.linkedin.com/groups/12381071/)
 - Reddcoin: https://www.linkedin.com/company/reddcoin
  
+ ### Pinterest
+ - Project Redd: https://pinterest.com/projectreddofficial
+ - Reddcoin: https://pinterest.com/ReddCoin
+ 
  ### Twitter
 - Project Redd: https://twitter.com/ProjectReddTW
 - Reddcoin: https://twitter.com/reddcoin
@@ -77,31 +87,26 @@
 ### Medium
 - Project Redd: https://medium.com/projectredd
 
-### Reddcoin Blog
-- *** [Reddcoin University](https://university.reddcoin..........)
-- *** [Common Myths](https://...........)
+### Reddcoin Academy 
+- *** Reddcoin.com: https://university.reddcoin..........
 
 ## Tools
 
 ### Block Explorers
 
-**Mainnet**
-<br/>
 - BitInfoCharts: https://bitinfocharts.com/reddcoin/explorer/
 - ReddCoin Explorer https://live.reddcoin.com/
 - TokenView: https://rdd.tokenview.io/
 
-Testnet
-
-- *** [ReddExplorer](https://testnet-explorer.reddcoin.com/)
-- *** [Chainz.CryptoID](https://chainz.cryptoid.info/rdd-test/)
 
 ### Other
+#### Faucet:
+- Faucetcrypto: https://faucetcrypto.com/
+- Althub: https://althub.club/
 
-- *** [Charts](https://www.reddcoincoinexplorer.net/charts/)
-- *** [Inflation](https://www.reddcoincoinexplorer.net/inflation/)
-- *** [Mempool](https://www.reddcoinexplorer.net/mempool/)
-- *** [Energy Statistics](https://...)
-- *** [Testnet Faucet](https://...)
-
----
+#### *** Charts & Inflation 
+- *** Charts https://www.reddcoincoinexplorer.net/charts
+- *** Inflation https://www.reddcoincoinexplorer.net/inflation
+- *** Mempool https://www.reddcoinexplorer.net/mempool
+- *** Energy Statistics https://...
+- *** Testnet Faucet https://...)
