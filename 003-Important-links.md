@@ -14,10 +14,10 @@
 - *** [Bitcointalk Thread](https://bitcointalk.org/..............)
 
 ## Chats
-#### Discord
+### Discord
 - Project Redd Powered by ReddCoin: https://discord.gg/vKyEVnw
 
-#### Telegram
+### Telegram
 - ReddCoin & Project Redd Community: https://t.me/ReddcoinOfficial
 - Redd.Love Social Movement (Powered by ReddCoin): https://t.me/ProjectReddOfficial
 
