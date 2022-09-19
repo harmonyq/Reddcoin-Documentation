@@ -78,13 +78,30 @@ ReddCoin - Serious Dev Q’s & Support: https://t.me/ReddcoinDev
 - Reddcoin: https://www.linkedin.com/company/reddcoin
  
  ### Pinterest
- - Project Redd: https://pinterest.com/projectreddofficial
- - Reddcoin: https://pinterest.com/ReddCoin
+- Project Redd: https://pinterest.com/projectreddofficial
+- Reddcoin: https://pinterest.com/ReddCoin
  
- ### Twitter
+ ### TikTok
+- Project Redd: https://www.tiktok.com/@projectreddofficial
+ 
+### Twitch
+- ReddCoin: https://www.twitch.tv/ReddCoin
+
+ 
+### Twitter
 - Project Redd: https://twitter.com/ProjectReddTW
 - Reddcoin: https://twitter.com/reddcoin
 - Reddcoin tip bot: https://twitter.com/tipReddCoin
+
+### Vimeo
+- Project Redd: http://www.vimeo.com/projectreddofficial
+
+### VK
+- Official Russian community: https://vk.com/dwreddcoin
+
+### YouTube
+- Project Redd: http://www.youtube.com/ReddProject
+- Reddcoin: https://www.youtube.com/user/OfficialReddcoin/
 
 ## Publications and Collections
 
