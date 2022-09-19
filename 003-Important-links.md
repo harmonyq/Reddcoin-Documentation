@@ -15,7 +15,7 @@
 
 ## Chats
 #### Discord
-- [Discord](https://discord.gg/vKyEVnw)
+- Project Redd Powered by ReddCoin: [Discord](https://discord.gg/vKyEVnw)
 
 #### Telegram
 - [Telegram - Official](https://t.me/ReddcoinOfficial)
