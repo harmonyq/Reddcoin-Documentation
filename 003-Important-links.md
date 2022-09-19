@@ -40,6 +40,7 @@ Mainnet
 
 - [BitInfoCharts](https://bitinfocharts.com/reddcoin/explorer/)
 - [ReddCoin Explorer](https://live.reddcoin.com/)
+- [TokenView](https://rdd.tokenview.io/)
 
 Testnet
 
